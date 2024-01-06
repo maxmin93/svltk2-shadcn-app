@@ -1,16 +1,6 @@
 # svltk2-shadcn-app
 
 > bits-ui 는 melt-ui 를 기반으로 작성된 headless UI 이다. 이를 다시 tailwind 변수들과 스타일 속성을 결합한 shadch-svelte 라이브러리를 살펴본다. 이와 함께 웹사이트 레이아웃을 추출하여 분석해본다.
-> {: .prompt-tip }
-
-- [Svelte Component 라이브러리 - 1일차](/posts/2023-08-31-svelte-components-tutorial-day1/) : Steeze UI
-- [Svelte Component 라이브러리 - 2일차](/posts/2023-10-08-svelte-components-tutorial-day2/) : Flowbite Svelte
-- [Svelte Component 라이브러리 - 3일차](/posts/2023-11-01-svelte-components-tutorial-day3/) : Flowbite Blocks
-- [Svelte Component 라이브러리 - 4일차](/posts/2023-11-08-svelte-components-tutorial-day4/) : daisyUI Svelte
-- [Svelte Component 라이브러리 - 5일차](/posts/2023-11-09-svelte-components-tutorial-day5/) : Skeleton
-- [Svelte Component 라이브러리 - 6일차](/posts/2023-11-30-svelte-components-tutorial-day6/) : Open Props
-- [Svelte Component 라이브러리 - 7일차](/posts/2023-12-15-svelte-components-tutorial-day7/) : Melt-UI
-- [Svelte Component 라이브러리 - 8일차](/posts/2024-01-03-svelte-components-tutorial-day8/) : Bits-UI &nbsp; &#10004;
 
 bits-ui, shadcn-svelte 라이브러리는 [유튜버 Huntabyte](https://www.youtube.com/@Huntabyte) 가 작성했다.
 
